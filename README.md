@@ -7,7 +7,7 @@
 
 
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1ue9F_aE8Bl2LXndLCDRb0bqm3cL5O_dS/view?usp=sharing]](https://drive.google.com/file/d/1ue9F_aE8Bl2LXndLCDRb0bqm3cL5O_dS/view?usp=sharing)(https://drive.google.com/file/d/1m8_Y0cLQzwAig5a1Mesz4pBxCW2I3DMu/view?usp=drive_link)]
+- 📄 Know about my experiences [[(https://drive.google.com/file/d/1ue9F_aE8Bl2LXndLCDRb0bqm3cL5O_dS/view?usp=sharing)(https://drive.google.com/file/d/1m8_Y0cLQzwAig5a1Mesz4pBxCW2I3DMu/view?usp=drive_link)]
 - ⚡ Fun fact **I am Funny😅😎**
 
 <h3 align="left">Connect with me:</h3>
