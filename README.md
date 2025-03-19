@@ -7,9 +7,9 @@
 
 
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1ue9F_aE8Bl2LXndLCDRb0bqm3cL5O_dS/view?usp=sharing](https://drive.google.com/file/d/1m8_Y0cLQzwAig5a1Mesz4pBxCW2I3DMu/view?usp=drive_link)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1ue9F_aE8Bl2LXndLCDRb0bqm3cL5O_dS/view?usp=sharing](https://drive.google.com/file/d/1ue9F_aE8Bl2LXndLCDRb0bqm3cL5O_dS/view?usp=sharing)]
 
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manjugajula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjugajula" height="30" width="40" /></a>
